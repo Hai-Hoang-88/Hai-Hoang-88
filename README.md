@@ -1,6 +1,8 @@
+# Hei there! 	🌊
+
 - 👋 Hi, I’m Hai-Hoang
-- 👀 I’m interested in new way to present architecture - urban planning
-- 🌱 I’m currently learning github
+- 👀 I’m interested in new way to present architecture - urban planning. 
+- It is intriguing for me to see rapid change of technology affection on other industry
 - 💞️ I’m looking to collaborate on interaction urban planning, computational arch
 - 📫 reach me via email: hai.hoanglenam@gmail.com
 
